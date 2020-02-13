@@ -1,0 +1,13 @@
+SELECT [IdBlockType]
+      ,[BlockType]
+      ,[NameBlockType]
+      ,[Status]
+      ,[ReIssueFlag]
+      ,[UnlockFlag]
+      ,[CreationDate]
+      ,[IdCreationUser]
+      ,[LastUpdate]
+      ,[IdLastUpdateUser]
+      ,[IdTimer]
+      ,[CardEnable]
+  FROM BlockTypes bt
